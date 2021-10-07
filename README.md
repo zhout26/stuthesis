@@ -1,11 +1,13 @@
 # 汕头大学学学位论文 LaTeX 模板
 
+本项目是汕头大学学的学位论文 LaTeX 模板 stuthesis，基于中国科学技术大学学位论文Latex模板修改而成，由于时间关系，很多地方还只是简单替换，望原作者见谅。
+
 [![GitHub release](https://img.shields.io/github/release/stutug/stuthesis/all.svg)](https://github.com/stutug/stuthesis/releases/latest)
 [![GitHub commits](https://img.shields.io/github/commits-since/stutug/stuthesis/latest.svg)](https://github.com/stutug/stuthesis/commits/master)
 [![Build](https://github.com/stutug/stuthesis/workflows/build/badge.svg)](https://github.com/stutug/stuthesis/actions)
 
-本项目是汕头大学学的学位论文 LaTeX 模板 stuthesis，按照最新版的
-《[研究生学位论文撰写手册](https://gradschool.stu.edu.cn/static/oldsite/ylb/material/xw/wdxz/32.pdf)》
+
+按照最新版的《[研究生学位论文撰写手册](https://gradschool.stu.edu.cn/static/oldsite/ylb/material/xw/wdxz/32.pdf)》
 和
 《[关于本科毕业论文（设计）格式和统一封面的通知](https://www.teach.stu.edu.cn/notice/notice-teaching/11530.html)》
 的要求编写，兼容最新版的 TeX Live、MacTeX 、MiKTeX 发行版，支持跨平台使用。
